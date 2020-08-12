@@ -1,5 +1,6 @@
 ### Hi I'm Josh from Minnesota!
 
+- 📈  I'm a serial technical co-founder, which is the long way of saying "bad at marketing"
 - 🔭  I’m currently working on making OOH buying seamless and contributing to the Ruby community
 - 👯  I’m looking to collaborate on a top-secret open-source platform
 - 🤔  ... and I’m looking for help with it
